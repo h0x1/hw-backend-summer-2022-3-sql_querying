@@ -27,11 +27,11 @@ pluggy==1.0.0
 py==1.11.0
 pycparser==2.21
 pyparsing==3.0.9
-pytest==7.1.2
+pytest
 pytest-aiohttp==1.0.4
-pytest-asyncio==0.19.0
+pytest-asyncio
 pytest-cov==3.0.0
-pytest-mock==3.8.2
+pytest-mock
 python-dateutil==2.8.2
 PyYAML==6.0
 six==1.16.0
