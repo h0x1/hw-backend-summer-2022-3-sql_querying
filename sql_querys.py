@@ -1,7 +1,7 @@
 # INFO
 # Вывести топ 5 самых коротких по длительности перелетов.  Duration - разница между scheduled_arrival и scheduled_departure.
 # В ответе должно быть 2 колонки [flight_no, duration]
-TASK_1_QUERY = """
+TASK_1_QUERY = "SELECT * FROM flights"
 """
 #  flight_no | duration
 # -----------+----------
